@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+ipykernel
+jupyter
+# wordcloud
+seaborn
+surprise
+# keras
+# h5py
